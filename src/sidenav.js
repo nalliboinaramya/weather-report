@@ -5,7 +5,7 @@ import { faGreaterThan, faSun, faPaperPlane, faLessThan, faSquarePlus } from "@f
 
 const imgStyle = {
   position: "absolute",
-  marginTop: "155px"
+  marginTop: "30px"
 };
 
 const SideNav = () => {

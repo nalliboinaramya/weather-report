@@ -23,7 +23,7 @@ export default function Chart() {
   ];
   return (
     <div className="chart-section">
-      <ResponsiveContainer width="96%" height={150}>
+      <ResponsiveContainer width="96%" height={90}>
       <AreaChart
         data={data}
         margin={{ top: 0, right: 30, left: 0, bottom: 0 }}
